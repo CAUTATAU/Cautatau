@@ -25,4 +25,4 @@ Sou estudante de Ciência da Computação, atualmente no 4º semestre do curso. 
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cautatau&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cautatau&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)
