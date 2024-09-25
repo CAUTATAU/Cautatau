@@ -7,7 +7,7 @@
 
 Sou estudante de Ciência da Computação, atualmente no 4º semestre do curso. Possuo 1 ano de experiência com desenvolvimento Full-stack mas amo poder trabalhar com criações de Api e engenharia de software.
 
-
+- 🔭 Veja meu currículo! [resume](https://drive.google.com/file/d/1KCknyc3X1ahpWfpixL8hVYvbU747FNGD/view)  
 <div align="center">
   <a href="https://www.linkedin.com/in/caua-barros/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </div>
