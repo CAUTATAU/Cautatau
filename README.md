@@ -70,7 +70,6 @@ Sou estudante de Ciência da Computação, atualmente no 4º semestre do curso. 
 
 ## ⭐ GitHub Stats
 <div align="center" style="display:flex;justify-content: center;align-items: center" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cautatau&show_icons=true&theme=synthwave&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cautatau&layout=donut&theme=synthwave"/>
 </div>
 
